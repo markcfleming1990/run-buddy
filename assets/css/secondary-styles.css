@@ -5,28 +5,43 @@
     margin-bottom: 40px;
 }
 
+h2.page-title {
+    color: #fce138; 
+    display: inline-block;
+    border-bottom: 4px Solid yellow;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+
 .secondary-content {
     width: 80%;
     margin:auto;
-
+    color: #024e76;
 }
 
-h3.section-content {
+.section-content h3 {
     font-size: 25px;
-    margin:20px 0 20px 0;
+    margin:20px 0;
 
 }
 
-p.secondary-content{
+.secondary-content p {
     font-size: 16px;
     line-height: 1.5;
-    margin:20px 0 20px 0;
+    margin:20px 0 20px;
 
 }
   
-ul.secondary-content {
+.secondary-content ul {
     color: #39a6b6;
-    margin: 10px 0 10px 0;
+    margin: 15px 20px;
+}
+
+.secondary-content li {
+    color: #39a6b6;
+    margin: 10px 0;
 }
 
 

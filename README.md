@@ -12,3 +12,5 @@ https://learnantino.github.io/run-buddy/
 
 #Contribution
 Made with ❤️ by Mark Fleming
+
+## &c2019 Run Buddy, Inc 

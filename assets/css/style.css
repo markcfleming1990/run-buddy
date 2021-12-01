@@ -20,10 +20,9 @@ header {
 
 header h1 {
     font-weight: bold;
+    margin: 0;
     font-size: 36px;
     color: #fce138;
-    margin: 0;
-    
 }
 
 header a {
@@ -51,11 +50,11 @@ header nav ul li a {
 
 footer{
     background: #fce138;
-    width: 100%;
     padding: 40px 35px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    width: 100%;
 }
 
 footer h2 {
@@ -92,7 +91,7 @@ section {
     margin: 3.5%;
     color: #fff;
     font-size:  18px;
-    line-height: : 1.3;
+    line-height: 1.3;
 }
 
 .hero-cta h2 {
@@ -147,8 +146,8 @@ section {
     line-height: 1.7;
     color: #39a6b2;
     width: 80%;
-    font-size: 20px;
     margin: 0 auto;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -159,8 +158,8 @@ section {
 
 .section-title {
     font-size: 55px;
-    color: #024e76;
     border-bottom: 3px solid;
+    color: #024e76;
     padding-bottom: 20px;
     text-align: center;
     margin: 0 auto 35px auto;
@@ -235,11 +234,10 @@ section {
 }
 
 .trainer {
-    margin: 0 auto 30px auto;
+    margin: 20px;
+    flex: 1;
     background: #024e76;
     color:#fce138;
-    flex: 1;
-    
 }
 
 .trainer img {
@@ -248,7 +246,7 @@ section {
 
 .trainer-bio {
     padding: 25px;
-
+    line-height: 1.3;
 }
 
 .trainer-bio h3{
@@ -280,7 +278,6 @@ section {
 
 /*REACH OUT STYLES START*/
 .contact{
-    
     background: #024e76;
 }
 
